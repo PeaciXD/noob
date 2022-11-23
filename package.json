@@ -1,0 +1,33 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.1.0",
+    "@types/node": "^18.0.6",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "firebase": "^9.10.0",
+    "http": "^0.0.1-security",
+    "jquerry": "^0.0.1-security",
+    "mongoose": "^6.6.2",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.2.6",
+    "node-static": "^0.7.11",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "update": "^0.7.4"
+  },
+  "description": ""
+}
